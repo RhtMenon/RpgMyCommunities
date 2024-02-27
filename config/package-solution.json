@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "rpg-communities-client-side-solution",
+    "id": "801961a3-66dd-423d-91db-7d35c70aaa90",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.18.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "rpg-communities description"
+      },
+      "longDescription": {
+        "default": "rpg-communities description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "rpg-communities Feature",
+        "description": "The feature that activates elements of the rpg-communities solution.",
+        "id": "ca6c4022-3d2e-4dc9-98d8-6d73406cf27d",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/rpg-communities.sppkg"
+  }
+}
